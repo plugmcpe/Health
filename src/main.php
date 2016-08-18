@@ -2,10 +2,10 @@
 
 namespace heal
 
-use pocketmine/plugin/PluginBase
-use pocketmine/utils/TextFormat
-use pocketmine/command/CommandSender
-use pocketmine/command/Command
+use pocketmine/plugin/PluginBase;
+use pocketmine/utils/TextFormat as Color;
+use pocketmine/command/CommandSender;
+use pocketmine/command/Command;
 
  class Main extends PluginBase{
 public function onEnable() {
