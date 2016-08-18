@@ -1,0 +1,11 @@
+---
+name:Heal
+author:plug_mcpe
+main:healplugin/main
+version: 1.0
+api: 2.0.0
+
+Commands:
+  heal:
+      
+       discription: heal your health
