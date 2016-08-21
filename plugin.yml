@@ -7,5 +7,5 @@ api: 2.0.0
 
 Commands:
   heal:
-      
+default: op      
        discription: heal your health
