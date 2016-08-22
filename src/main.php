@@ -18,6 +18,6 @@ public function onEnable() {
 
 public function oncommand(CommandSender $sender, command $cmd, $lable, array $args){
    switch($cmd->getName())( /* Switch == Case || $cmd->getName() == command */
-    case heal:
-    $sender->sendMassage(Color::BLACK,"your are heal your health"
+    case HEAL:
+    $sender->sendMassage(Color::YELLOW,"your are heal your health"
      $sender->getheal()->20();
